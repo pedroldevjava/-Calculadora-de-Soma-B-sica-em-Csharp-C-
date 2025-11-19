@@ -1,0 +1,15 @@
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\bin\Debug\net9.0\matematicaSOMA.exe
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\bin\Debug\net9.0\matematicaSOMA.deps.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\bin\Debug\net9.0\matematicaSOMA.runtimeconfig.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\bin\Debug\net9.0\matematicaSOMA.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\bin\Debug\net9.0\matematicaSOMA.pdb
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\obj\Debug\net9.0\matematicaSOMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\obj\Debug\net9.0\matematicaSOMA.AssemblyInfoInputs.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\obj\Debug\net9.0\matematicaSOMA.AssemblyInfo.cs
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\obj\Debug\net9.0\matematicaSOMA.csproj.CoreCompileInputs.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\obj\Debug\net9.0\matematicaSOMA.sourcelink.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\obj\Debug\net9.0\matematicaSOMA.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\obj\Debug\net9.0\refint\matematicaSOMA.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\obj\Debug\net9.0\matematicaSOMA.pdb
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\obj\Debug\net9.0\matematicaSOMA.genruntimeconfig.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\matematicaSOMA\matematicaSOMA\obj\Debug\net9.0\ref\matematicaSOMA.dll
