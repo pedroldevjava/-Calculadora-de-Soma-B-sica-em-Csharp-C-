@@ -22,7 +22,7 @@ A imagem apresenta um código-fonte em linguagem C# que implementa um programa s
    - Utiliza `CultureInfo.InvariantCulture` para parsing dos números
 
 O programa é funcional para operações básicas de soma de inteiros, adequado para fins educacionais ou como componente inicial de sistemas mais complexos.
-# -Calculadora-de-Soma-B-sica-em-Csharp-C-
+# CALCULADORA BÁSICA EM CSHARP (C#) #
 
 CÓDIGO FONTE:
 <img width="1562" height="605" alt="image" src="https://github.com/user-attachments/assets/7eee3ccd-f481-4d0c-85a8-64e199a5d65b" />
